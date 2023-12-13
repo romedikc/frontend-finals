@@ -1,0 +1,1 @@
+export const completed = JSON.parse(localStorage.getItem('completed'))
