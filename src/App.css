@@ -28,6 +28,11 @@
     color: white;
   }
   
+  .check {
+    font-size: 30px;
+    margin-left: 50px;
+  }
+  
   .App-link {
     color: #61dafb;
   }
@@ -43,7 +48,7 @@
   
   .cont {
     margin-left: 100px;
-    width: 30%;
+    width: 50%;
   }
   
   .task_cont {
@@ -51,7 +56,6 @@
     align-items: end;
     justify-content: start;
     gap: 10px;
-    width: 100%;
   }
   
   .item {
@@ -63,6 +67,7 @@
     border: 1px solid dimgrey;
     padding: 10px;
     border-radius: 8px;
+    width: 100%;
   
   }
   
@@ -82,10 +87,11 @@
   
   .button {
     background: brown;
-    padding: 11px;
+    padding: 17px;
     border-radius: 8px;
     border: none;
     font-size: 16px;
     color: white;
     cursor: pointer;
+    width: 200px;
   }
