@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# [DEPLOYED TO NETLIFY](https://6579ec7ae06f2a412b3cc704--musical-caramel-0cd417.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1432" alt="Screen Shot 2023-12-13 at 23 40 52" src="https://github.com/romedikc/frontend-finals/assets/73655002/482174a4-bfb8-482e-9118-fd07ea35f253">
 
 ## Available Scripts
 
